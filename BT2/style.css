@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 20px;
+    background-color: #287cfa;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+
+
+button:hover {
+    background-color: #45a049;
+}
+
+div {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+#cart {
+    list-style-type: none;
+    padding: 0;
+}
+
+#cart li {
+    margin-bottom: 5px;
+}
+
+
+#addButton {
+    background-color: #3498db;
+}
+
+#datmuaButton {
+    background-color: #16ac11;
+}
+
